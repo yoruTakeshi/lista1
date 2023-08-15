@@ -113,5 +113,5 @@ elif idrev == 10:
 
 elif idrev == 0:
 	print(
-	 "Bazinga! Você achou o easter egg. Bem, você vai ver o código fonte disso mesmo, então não muda muita coisa eu ter feito isso, mas decidi brincar um pouco."
+	 "Bazinga! Você achou o easter egg. Bem, você vai ver o código fonte disso mesmo, então não muda muita coisa eu ter feito isso, mas decidi brincar um pouco, né?"
 	)
